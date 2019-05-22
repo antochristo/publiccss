@@ -1,18 +1,4 @@
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 50px;
-}
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-word-wrap: break-word;
-max-width: 500px;
-}
-tr:nth-child(odd) {
-  background-color: #10dddd;
-}
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
+table {font-family: arial, sans-serif;border-collapse: collapse;width: 50px;}
+td, th {border: 1px solid #dddddd;text-align: left;padding: 8px;word-wrap: break-word;max-width: 500px;}
+tr:nth-child(odd) {background-color: #10dddd;}
+tr:nth-child(even) {background-color: #dddddd;}
